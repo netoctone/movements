@@ -1,3 +1,7 @@
+== Requirements
+
+  ruby 2.1.4 or higher
+
 == Usage
 
   ruby movements.rb path/to/input_file
