@@ -1,0 +1,7 @@
+== Usage
+
+  ruby movements.rb path/to/input_file
+
+== Tests
+
+  ruby movements_test.rb
